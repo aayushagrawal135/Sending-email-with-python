@@ -1,4 +1,5 @@
 #send an E-mail with a python script
+#From g-mail Go to 'Allow less secure apps to access my account' setting, and turn it On
 
 #smtp : Simple Mail Tranfer Protocol, a library to use its functionality
 import smtplib
